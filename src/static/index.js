@@ -1,0 +1,13 @@
+export const ImgProfile34 = require('./Bartek_34.jpg');
+export const ImgProfile32 = require('./Bartek_32.jpg');
+export const ImgProfileSquare = require('./Bartek_square.jpg');
+export const ImgLogo11= require('./logo/Logo11.png');
+export const ImgLogo31 = require('./logo/Logo31.png');
+export const ImgDjango = require('./django.png');
+export const ImgRest = require('./rest_logo.png');
+export const ImgReact = require('./logo192.png');
+export const ImgCloud = require('./googlecloud.png');
+export const ImgPython = require('./python.png');
+export const ImgJS = require('./js.png');
+export const ImgPostgresql = require('./postgresql.png');
+export const ImgReactRouter = require('./reactrouter.png');

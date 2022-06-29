@@ -11,6 +11,9 @@
 # production
 /build
 
+# extern files
+/extern
+
 # misc
 .DS_Store
 .env.local
