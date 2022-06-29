@@ -14,6 +14,9 @@ my work is all about and maybe inspire some softwarehouse to give me a chance in
 
 This part is a frontend, it usind React and communicating through rest API with Django backend. Link to Django: https://github.com/bartekwisnia/ProcessDemoData
 
+Project is online on google cloud:
+https://cra-cloud-run-tidx6c6lxa-uc.a.run.app/
+
 ## Version History
 
 * 0.1
